@@ -1,0 +1,88 @@
+body {
+    padding: 1em 5em;
+    background: #3c3c3c;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #fff;
+}
+
+div {
+    width:175px;
+    height: 175px;
+    margin-left: 1em;
+    display: inline-block;
+}
+
+/* Color set 1 */
+
+.color11 {
+    background-color: #c16351;
+}
+
+.color12 {
+    background-color: #cf6f51;
+}
+
+.color13 {
+    background-color: #ea8751;
+}
+
+.color14 {
+    background-color: #ffc263;
+}
+
+.color15 {
+    background-color: #fde8ac;
+}
+
+.color16 {
+    background-color: #fde8ac;
+}
+
+/* Color set 2 */
+
+.color21 {
+    background-color: #fde8ac;
+}
+
+.color22 {
+    background-color: #fde8ac;
+}
+
+/* Color set 3 */
+
+.color31 {
+    background-color: #cf6f51;
+}
+
+.color32 {
+    background-color: #ea8751;
+}
+
+.color33 {
+    background-color: #ffc263;
+}
+
+.color34 {
+    background-color: #fde8ac;
+}
+
+/* Color set 4 */
+
+.color41 {
+    background-color: #fde8ac;
+}
+
+.color42 {
+    background-color: #fde8ac;
+}
+
+.color43 {
+    background-color: #fde8ac;
+}
+
+.color44 {
+    background-color: #fde8ac;
+}
