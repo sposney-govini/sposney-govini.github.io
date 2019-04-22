@@ -41,6 +41,10 @@ div {
     background-color: #fde8ac;
 }
 
+.gray1 {
+    background-color: #7c7c7c;
+}
+
 /* Color set 2 */
 
 .color21 {
@@ -49,6 +53,26 @@ div {
 
 .color22 {
     background-color: #fde8ac;
+}
+
+.color23 {
+    background-color: #fde8ac;
+}
+
+.color24 {
+    background-color: #fde8ac;
+}
+
+.color25 {
+    background-color: #fde8ac;
+}
+
+.color26 {
+    background-color: #fde8ac;
+}
+
+.gray1 {
+    background-color: #ccc;
 }
 
 /* Color set 3 */
@@ -72,7 +96,7 @@ div {
 /* Color set 4 */
 
 .color41 {
-    background-color: #343961;
+    background-color: #526394;
 }
 
 .color42 {
