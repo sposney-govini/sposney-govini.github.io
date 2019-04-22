@@ -13,6 +13,15 @@ div {
     height: 150px;
     margin-left: 1em;
     display: inline-block;
+    margin-bottom: 20px;
+}
+
+.separator {
+    width: 3px;
+    background-color: #fff;
+    height: 190px;
+    margin-bottom: 0px;
+
 }
 
 /* Color set 1 */
@@ -30,7 +39,7 @@ div {
 }
 
 .color14 {
-    background-color: #e79c41;
+    background-color: #e07b00;
 }
 
 .color15 {
@@ -108,5 +117,5 @@ div {
 }
 
 .color44 {
-    background-color: #fde8ac;
+    background-color: #ccc;
 }
