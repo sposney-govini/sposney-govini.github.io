@@ -3,9 +3,10 @@ body {
     background: #3c3c3c;
 }
 
-h1 {
+h3 {
     font-family: sans-serif;
     color: #fff;
+    margin-bottom: 0.2em;
 }
 
 div {
@@ -57,27 +58,27 @@ div {
 /* Color set 2 */
 
 .color21 {
-    background-color: #fde8ac;
+    background-color: #b0b6ca;
 }
 
 .color22 {
-    background-color: #fde8ac;
+    background-color: #d4a9a1;
 }
 
 .color23 {
-    background-color: #fde8ac;
+    background-color: #d1b492;
 }
 
 .color24 {
-    background-color: #fde8ac;
+    background-color: #d8c3be;
 }
 
 .color25 {
-    background-color: #fde8ac;
+    background-color: #d0e4eb;
 }
 
 .color26 {
-    background-color: #fde8ac;
+    background-color: #f1e4cd;
 }
 
 .gray2 {
