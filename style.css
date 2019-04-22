@@ -9,8 +9,8 @@ h1 {
 }
 
 div {
-    width:175px;
-    height: 175px;
+    width:150px;
+    height: 150px;
     margin-left: 1em;
     display: inline-block;
 }
@@ -71,7 +71,7 @@ div {
     background-color: #fde8ac;
 }
 
-.gray1 {
+.gray2 {
     background-color: #ccc;
 }
 
