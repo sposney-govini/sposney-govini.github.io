@@ -27,27 +27,27 @@ div {
 /* Color set 1 */
 
 .color11 {
-    background-color: #c16351;
-}
-
-.color12 {
-    background-color: #cc9c93;
-}
-
-.color13 {
-    background-color: #ffc263;
-}
-
-.color14 {
-    background-color: #e07b00;
-}
-
-.color15 {
     background-color: #526394;
 }
 
+.color12 {
+    background-color: #c16351;
+}
+
+.color13 {
+    background-color: #e07b00;
+}
+
+.color14 {
+    background-color: #c29186;
+}
+
+.color15 {
+    background-color: #83d2ea;
+}
+
 .color16 {
-    background-color: #6fbcfd;
+    background-color: #ffc263;
 }
 
 .gray1 {
