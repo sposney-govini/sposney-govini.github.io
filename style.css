@@ -42,6 +42,20 @@ div:nth-child(2)
     margin-left: 1em;
 }
 
+p {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+p .dark {
+    color: #3c3c3c;
+}
+
+p .light {
+    color: #f7f7f7;
+}
+
 /* Color set 1 */
 
 .color11 {
@@ -109,7 +123,7 @@ div:nth-child(2)
 }
 
 .color32 {
-    background-color: #ea8751;
+    background-color: #e79c41;
 }
 
 .color33 {
